@@ -230,9 +230,15 @@ sollte sich nun in einem neuen Fenster öffnen.
    den Installer. Sie brauchen keine Anpassungen vorzunehmen. Klicken Sie
    schließlich auf `Install` um die Installation abzuschließen.
 
+#### Umgebungsvariablen setzen
+
+4. Fügen Sie `C:\Program Files (x86)\GnuWin32\bin` zu Ihrer `Path`
+   Umgebungsvariable hinzu. Gehen Sie dazu vor, wie in den vorherigen 
+   Abschnitten beschrieben.
+
 #### Test
 
-3. Öffnen Sie eine neue Console. Geben Sie ein: `diff -v`. Sie sollten nun folgende
+5. Öffnen Sie eine neue Console. Geben Sie ein: `diff -v`. Sie sollten nun folgende
    Ausgabe sehe: `diff - GNU diffutils version 2.7`
 
 ## Kennenlernen der Programmierwerkzeuge - Einstiegsaufgabe
